@@ -29,4 +29,4 @@ Oro City is currently a small town about four days travel west south west of Den
 * [Tabor's Store](Locations/Tabors.Store.md)
 * [The Church](Locations/The.Church.md)
 
-### Rules Updates for Savage Worlds Adventure Edition
+### [Rules Updates for Savage Worlds Adventure Edition](ReloadedUpdates/Rules.Updates.md)
