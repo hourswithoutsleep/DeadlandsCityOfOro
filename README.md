@@ -11,14 +11,14 @@ Oro City is currently a small town about four days travel west south west of Den
 
 ### Faces
 
-* [Edward Browne](Face/Edward.Browne.md)
-* [Elizabeth McCourt](Face/Elizabeth.McCourt.md)
-* [Horace Tabor](Face/Horace.Tabor.md)
-* [John J Hoover](Face/John.J.Hoover.md)
-* [Marshal Saul Cornell](Face/Marshal.Saul.Cornell.md)
-* [Meyer Guggenheim](Face/Meyer.Guggenheim.md)
-* [Robert Redding](Face/Robert.Redding.md)
-* [William Nye](Face/William.Nye.md)
+* [Edward Browne](Faces/Edward.Browne.md)
+* [Elizabeth McCourt](Faces/Elizabeth.McCourt.md)
+* [Horace Tabor](Faces/Horace.Tabor.md)
+* [John J Hoover](Faces/John.J.Hoover.md)
+* [Marshal Saul Cornell](Faces/Marshal.Saul.Cornell.md)
+* [Meyer Guggenheim](Faces/Meyer.Guggenheim.md)
+* [Robert Redding](Faces/Robert.Redding.md)
+* [William Nye](Faces/William.Nye.md)
 
 ### Locations
 
