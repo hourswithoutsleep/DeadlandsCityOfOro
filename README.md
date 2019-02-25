@@ -11,7 +11,7 @@ Oro City is currently a small town about four days travel west south west of Den
 
 ### Locations
 
-[Arcade Saloon](.\Locations\Arcade.Saloon.md)
-[Guggenheim Mine](.\Locations\Guggenheim.Mine.md)
-[Tabor's Store](.\Locations\Tabors.Store.md)
-[The Church](.\Locations\The.Church.md)
+* [Arcade Saloon](Locations\Arcade.Saloon.md)
+* [Guggenheim Mine](Locations\Guggenheim.Mine.md)
+* [Tabor's Store](Locations\Tabors.Store.md)
+* [The Church](Locations\The.Church.md)
