@@ -30,3 +30,7 @@ Oro City is currently a small town about four days travel west south west of Den
 * [The Church](Locations/The.Church.md)
 
 ### [Rules Updates for Savage Worlds Adventure Edition](ReloadedUpdates/Rules.Updates.md)
+
+### Map of Oro City
+
+![Oro City](Maps/OroCityMap.jpg)
