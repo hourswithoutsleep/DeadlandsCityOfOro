@@ -18,6 +18,14 @@ True Grit
 ### Gear
 Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
 
+### Starting Notes
+
+Horace Tabor is looking to hire gunslingers to bring peace to Oro City and help end the threat of the band of outlaws lead by Robert Redding.
+
+Local outlaw Robert Redding has taken residence in the area. He and his gang are wanted for Stage Coach robbery, murder and cattle rustling. He has a $250 bounty, while the members of his gang have a $25 bounty.
+
+Legends tell of a great evil buried in this area and the Guggenheim mining company needs to be prevented from digging it up.
+
 ## Suggested Changes
 
 ### Attributes

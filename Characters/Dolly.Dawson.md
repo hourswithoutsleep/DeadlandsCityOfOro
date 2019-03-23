@@ -18,3 +18,7 @@ Texas Ranger, Streetwise, Two-Gun Kid
 ### Gear
 * Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
 * Colt Dragoon (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
+
+### Starting Notes
+
+Local outlaw Robert Redding has taken residence in the area. He and his gang are wanted for Stage Coach robbery, murder and cattle rustling.

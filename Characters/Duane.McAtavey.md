@@ -20,3 +20,9 @@ Card Sharp, Arcane Background (Huckster)
 * Derringer 5/10/20 2d6 ROF 1, Shots 2
 * Bowie Knife Str + d4 +1 AP1
 * Knife Str+d4
+
+### Starting Notes
+
+The town marshal Saul Cornell seems to cause as many problems as he solves. He also seems to be willing to look the other way for the right price.
+
+John J. Hoover runs the saloon. He used to be a miner, but a fall led to him having a broken leg and a bad limp so he no longer is in the trade.
