@@ -18,3 +18,11 @@ Brawler, Brawny
 ### Gear
 * Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
 * Brass Knuckles Str + d4
+
+## Suggested Changes
+
+### Skills
+Athletics d10, Common Knowledge d4, Fighting d8, Intimidate d6, Notice d4, Persuasion d4, Riding d4, Shooting d6, Stealth d4
+
+### Edges
+Brawler, Brawny, Brute

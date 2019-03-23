@@ -17,3 +17,8 @@ True Grit
 
 ### Gear
 Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
+
+## Suggested Changes
+
+### Attributes
+Agility d6, Smarts d6, Spirit d8, Strength d4, Vigor d6

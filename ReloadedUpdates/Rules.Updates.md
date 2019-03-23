@@ -16,4 +16,10 @@ The following are the ways that I am going to update the Reloaded rules to the n
 
 **Hucksters** will regain 5 power points every 3 hours, and have the ability to "Deal with the Devil" for more power points.
 
-**Texas Ranger** Requires the Streetwise edge instead of the skill
+### Edges
+
+**Veteran o' the Weird West**
+Requirements: Wild Card, Novice, Occult d6+
+
+**Texas Ranger** 
+Requirements: Novice, Vigor d8+, Fighting d6+, Riding d6+, Shooting d6+, Survival d6+, Streetwise

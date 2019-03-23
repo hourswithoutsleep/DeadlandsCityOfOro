@@ -7,13 +7,13 @@ Agility d6, Smarts d8, Spirit d6, Strength d4, Vigor d6
 Athletics d4, Common Knowledge d4, Faith d8, Fighting d6, Intimidation d6, Notice d4, Occult d6, Persuasion d4, Riding d6, Shooting d6, Stealth d4,
 
 ### Secondary Attributes
-Pace 6, Parry 5, Toughness 5, Grit 1
+Pace 6, Parry 5, Toughness 5, Grit 2
 
 ### Hindrances
-Driven, Loyal, One Eye Ruthless
+Driven, Loyal, One Eye, Ruthless
 
 ### Edges
-Blessed, Bastard, Veteran of the Weird West
+Arcane Background Blessed, Knack Bastard, Veteran of the Weird West
 
 ### Gear
 * Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
