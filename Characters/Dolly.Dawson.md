@@ -16,5 +16,5 @@ Arrogant, Driven, Heroic
 Texas Ranger, Streetwise, Two-Gun Kid
 
 ### Gear
-Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
-Colt Dragoon (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
+* Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
+* Colt Dragoon (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6

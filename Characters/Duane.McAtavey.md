@@ -16,7 +16,7 @@ Ailin' (Minor), Bad Dreams (Major), Cautious (Minor)
 Card Sharp, Arcane Background (Huckster)
 
 ### Gear
-Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
-Derringer 5/10/20 2d6 ROF 1, Shots 2
-Bowie Knife Str + d4 +1 AP1
-Knife Str+d4
+* Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
+* Derringer 5/10/20 2d6 ROF 1, Shots 2
+* Bowie Knife Str + d4 +1 AP1
+* Knife Str+d4

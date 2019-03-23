@@ -16,5 +16,5 @@ Driven, Loyal, One Eye Ruthless
 Blessed, Bastard, Veteran of the Weird West
 
 ### Gear
-Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
-Lvr Action Shotgun 12/24/48 1-3d6 Rof 1, 4 Shots
+* Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
+* Lever Action Shotgun 12/24/48 1-3d6 Rof 1, 4 Shots

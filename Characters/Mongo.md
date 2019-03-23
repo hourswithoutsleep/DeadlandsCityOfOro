@@ -16,5 +16,5 @@ All Thumbs, Clueless, Illiterate
 Brawler, Brawny
 
 ### Gear
-Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
-Brass Knuckles Str + d4
+* Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
+* Brass Knuckles Str + d4
