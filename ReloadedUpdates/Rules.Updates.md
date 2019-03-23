@@ -15,3 +15,5 @@ The following are the ways that I am going to update the Reloaded rules to the n
 ### Arcane Backgrounds
 
 **Hucksters** will regain 5 power points every 3 hours, and have the ability to "Deal with the Devil" for more power points.
+
+**Texas Ranger** Requires the Streetwise edge instead of the skill
