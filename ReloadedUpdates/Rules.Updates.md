@@ -2,6 +2,10 @@
 
 The following are the ways that I am going to update the Reloaded rules to the new Savage Worlds Adventure Edition until we get a new version of the Deadlands rules for this edition. This will be a living document and as situations come up, I will make updates to it to reflect how things have changed.
 
+### Setting Rules
+
+**Wound Cap** Because I am particularly lucky as a GM and I don't want to kill characters due to chance, I am using this setting rule.
+
 ### Secondary Attributes
 
 **Grit** We will be using the Grit attribute which starts at 1 for Novice characters and increases by 1 for each Rank you achieve (Seasoned, Veteran, Heroic, Legendary)

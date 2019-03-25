@@ -22,3 +22,11 @@ Texas Ranger, Streetwise, Two-Gun Kid
 ### Starting Notes
 
 Local outlaw Robert Redding has taken residence in the area. He and his gang are wanted for Stage Coach robbery, murder and cattle rustling.
+
+### Connections
+
+Has worked with Filmore Graves and Yiska Greyeyes in the past.
+
+### Question
+
+How do you feel about Filmore Graves and Yiska Greyeyes after your previous experiences with them?

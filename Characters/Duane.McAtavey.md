@@ -26,3 +26,11 @@ Card Sharp, Arcane Background (Huckster)
 The town marshal Saul Cornell seems to cause as many problems as he solves. He also seems to be willing to look the other way for the right price.
 
 John J. Hoover runs the saloon. He used to be a miner, but a fall led to him having a broken leg and a bad limp so he no longer is in the trade.
+
+### Connections
+
+Read the letter to Mongo informing him of his inheritance?
+
+### Question
+
+What is your current plan to get rich?

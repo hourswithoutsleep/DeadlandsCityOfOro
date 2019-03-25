@@ -24,3 +24,11 @@ Arcane Background Blessed, Knack Bastard, Veteran of the Weird West
 Oro City has urgent need for a new minister to lead a growing congregation. If interested please write to Augusta Tabor about the position. As a sign of our interest in this position being filled, we have recently built a new building to serve as our new church.
 
 The last minister in the town disappeared during the night shortly after his new church was built, leaving the town looking for a new minister unexpectedly.
+
+### Connections
+
+Has worked with Dolly Dawson in the past.
+
+### Question
+
+How do you feel about Dolly Dawson after your previous experiences with her?

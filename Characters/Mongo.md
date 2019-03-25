@@ -23,6 +23,14 @@ Brawler, Brawny
 
 You inherited a mining claim in the region around Oro City from your uncle Jeb. You must arrive within the month to claim your inheritance.
 
+### Connections
+
+Got Duane McAtavey to read the note informing him of his inheritance.
+
+### Question
+
+Who do you trust least Dolly, Duane, Fillmore, or Yiska and why?
+
 ## Suggested Changes
 
 ### Skills

@@ -26,6 +26,14 @@ Local outlaw Robert Redding has taken residence in the area. He and his gang are
 
 Legends tell of a great evil buried in this area and the Guggenheim mining company needs to be prevented from digging it up.
 
+### Connections
+
+Has worked with Dolly Dawson in the past.
+
+### Question
+
+How do you feel about Dolly Dawson after your previous experiences with her?
+
 ## Suggested Changes
 
 ### Attributes
