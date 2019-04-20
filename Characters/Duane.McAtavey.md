@@ -21,6 +21,12 @@ Card Sharp, Arcane Background (Huckster)
 * Bowie Knife Str + d4 +1 AP1
 * Knife Str+d4
 
+### Powers
+
+* Bolt
+* Deflection
+* Entangle
+
 ### Starting Notes
 
 The town marshal Saul Cornell seems to cause as many problems as he solves. He also seems to be willing to look the other way for the right price.

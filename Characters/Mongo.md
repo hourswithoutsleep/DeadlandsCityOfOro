@@ -4,16 +4,16 @@
 Agility d4, Smarts d4, Spirit d4, Strength d10, Vigor d8
 
 ### Skills
-Athletics d10, Common Knowledge d4, Fighting d8, Intimidate d6, Notice d4, Persuasion d4, Riding d6, Shooting d8, Stealth d4
+Athletics d10, Common Knowledge d4, Fighting d8, Intimidate d6, Notice d4, Persuasion d4, Riding d4, Shooting d6, Stealth d4
 
 ### Secondary Attributes
 Pace 6, Parry 6, Toughness 8, Grit 1
 
 ### Hindrances
-All Thumbs, Clueless, Illiterate
+Clueless, Illiterate, Lyin Eyes
 
 ### Edges
-Brawler, Brawny
+Brawler, Brawny, Brute
 
 ### Gear
 * Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
@@ -30,11 +30,3 @@ Got Duane McAtavey to read the note informing him of his inheritance.
 ### Question
 
 Who do you trust least Dolly, Duane, Fillmore, or Yiska and why?
-
-## Suggested Changes
-
-### Skills
-Athletics d10, Common Knowledge d4, Fighting d8, Intimidate d6, Notice d4, Persuasion d4, Riding d4, Shooting d6, Stealth d4
-
-### Edges
-Brawler, Brawny, Brute
