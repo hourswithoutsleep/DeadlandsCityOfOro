@@ -19,6 +19,7 @@ Oro City is currently a small town about four days travel west south west of Den
 
 ### Faces
 
+* [Deputy Jacob Stevenson](Faces/Deputy.Jacob.Stevenson.md)
 * [Edward Browne](Faces/Edward.Browne.md)
 * [Elizabeth McCourt](Faces/Elizabeth.McCourt.md)
 * [Horace Tabor](Faces/Horace.Tabor.md)
