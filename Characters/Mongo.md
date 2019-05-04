@@ -1,7 +1,7 @@
 ## Mongo
 
 ### Attributes
-Agility d4, Smarts d4, Spirit d4, Strength d10, Vigor d8
+Agility d6, Smarts d4, Spirit d4, Strength d10, Vigor d8
 
 ### Skills
 Athletics d10, Common Knowledge d4, Fighting d8, Intimidate d6, Notice d4, Persuasion d4, Riding d4, Shooting d6, Stealth d4

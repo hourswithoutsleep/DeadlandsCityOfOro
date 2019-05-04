@@ -19,6 +19,7 @@ Oro City is currently a small town about four days travel west south west of Den
 
 ### Faces
 
+* [Deputy Alvan Callaghan](Faces/Deputy.Alvan.Callaghan.md)
 * [Deputy Jacob Stevenson](Faces/Deputy.Jacob.Stevenson.md)
 * [Edward Browne](Faces/Edward.Browne.md)
 * [Elizabeth McCourt](Faces/Elizabeth.McCourt.md)
@@ -28,6 +29,8 @@ Oro City is currently a small town about four days travel west south west of Den
 * [Meyer Guggenheim](Faces/Meyer.Guggenheim.md)
 * [Robert Redding](Faces/Robert.Redding.md)
 * [William Nye](Faces/William.Nye.md)
+* [Reverend Smith](Faces/Reverend.Smith.md)
+* [Attie Gordon](Faces/Attie.Gordon.md)
 
 ### Locations
 

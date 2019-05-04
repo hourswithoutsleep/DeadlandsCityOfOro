@@ -13,7 +13,7 @@ Pace 6, Parry 5, Toughness 6, Grit 1
 Arrogant, Driven, Heroic
 
 ### Edges
-Texas Ranger, Streetwise, Two-Gun Kid
+Texas Ranger, Streetwise, Two-Gun Kid, Ambidexterity
 
 ### Gear
 * Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
