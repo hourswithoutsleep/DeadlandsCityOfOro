@@ -30,3 +30,9 @@ Got Duane McAtavey to read the note informing him of his inheritance.
 ### Question
 
 Who do you trust least Dolly, Duane, Fillmore, or Yiska and why?
+
+### Learned
+
+1. The miners do not trust the Guggenheim company because they do not hire miners. They only seem to hire laborers and mad scientists. They use infernal devices to pull ore out of their mines, not honest hard work.
+
+2. You are invited to diner at the private residence of Mr. Meyer Guggenheim.
