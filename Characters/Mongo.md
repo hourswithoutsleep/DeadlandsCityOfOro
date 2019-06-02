@@ -13,7 +13,7 @@ Pace 6, Parry 6, Toughness 8, Grit 1
 Clueless, Illiterate, Lyin Eyes
 
 ### Edges
-Brawler, Brawny, Brute
+Brawler, Brawny, Brute, Sweep
 
 ### Gear
 * Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6

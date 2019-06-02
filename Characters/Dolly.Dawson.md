@@ -1,13 +1,13 @@
 ## "Deadshot" Dolly Dawson
 
 ### Attributes
-Agility d8, Smarts d6, Spirit d4, Strength d6, Vigor d8
+Agility d8, Smarts d6, Spirit d4, Strength d6, Vigor d10
 
 ### Skills
 Athletics d6, Common Knowledge d4, Fighting d6, Notice d6, Persuasion d6, Riding d8, Shooting d8, Stealth d4, Survival d8
 
 ### Secondary Attributes
-Pace 6, Parry 5, Toughness 6, Grit 1
+Pace 6, Parry 5, Toughness 7, Grit 1
 
 ### Hindrances
 Arrogant, Driven, Heroic

@@ -27,3 +27,11 @@ Requirements: Wild Card, Novice, Occult d6+
 
 **Texas Ranger** 
 Requirements: Novice, Vigor d8+, Fighting d6+, Riding d6+, Shooting d6+, Survival d6+, Streetwise
+
+### Rulings
+
+**Dismounting**
+Dismounting from a horse, wagon or other vehicle is a free action similar to dropping prone to the ground.
+
+**Mounting**
+Mounting a horse, wagon, or other vehicle (except a train at a train station) costs 2 inches of movement.

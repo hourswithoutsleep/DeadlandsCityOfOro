@@ -4,7 +4,7 @@
 Agility d8, Smarts d8, Spirit d6, Strength d6, Vigor d6
 
 ### Skills
-Athletics d4, Common Knowledge d4, Fighting d6, Gambling d6, Notice d6, Persuasion d6, Riding d6, Shooting d8, Stealth d4, Survival d6
+Athletics d6, Common Knowledge d6, Fighting d6, Gambling d6, Notice d6, Persuasion d6, Riding d6, Shooting d8, Stealth d4, Survival d6
 
 ### Secondary Attributes
 Pace 6, Parry 5, Toughness 5, Grit 1
