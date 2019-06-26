@@ -25,7 +25,7 @@ The following are the ways that I am going to update the Reloaded rules to the n
 **Veteran o' the Weird West**
 Requirements: Wild Card, Novice, Occult d6+
 
-**Texas Ranger** 
+**Texas Ranger**
 Requirements: Novice, Vigor d8+, Fighting d6+, Riding d6+, Shooting d6+, Survival d6+, Streetwise
 
 ### Rulings
