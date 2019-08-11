@@ -1,7 +1,7 @@
 ## Duane "Lefty" McAtavey
 
 ### Attributes
-Agility d8, Smarts d8, Spirit d6, Strength d6, Vigor d6
+Agility d8, Smarts d8, Spirit d8, Strength d6, Vigor d6
 
 ### Skills
 Athletics d6, Common Knowledge d6, Fighting d6, Gambling d6, Notice d6, Persuasion d6, Riding d6, Shooting d8, Stealth d4, Survival d6
@@ -13,7 +13,7 @@ Pace 6, Parry 5, Toughness 5, Grit 1
 Ailin' (Minor), Bad Dreams (Major), Cautious (Minor)
 
 ### Edges
-Card Sharp, Arcane Background (Huckster)
+Card Sharp, Arcane Background (Huckster), Two Gun Kid
 
 ### Gear
 * Colt Peacemaker (.45) 12/24/48 2d6+1 AP 1 ROF 1 Shots 6
