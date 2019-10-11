@@ -2,6 +2,8 @@
 
 * Dr Arnett Banks : The local town doctor.
 
+* Mathilde Belamy : Owns and runs "The Grande" Theater in town.
+
 * Ernst Biltner : Miner who volunteered to aid the posse in capturing Robert Redding.
 
 * Titus Boisrame : Runs the town livery, had one of the strange fits and attempted to break into Abigail Sann's home.
